@@ -10,6 +10,7 @@ const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
           <Link href="/" className="text-white font-bold">Home</Link>
           <Link href="/history" className="text-white">History</Link>
           <Link href="/settings" className="text-white">Settings</Link>
+          <Link href="/test" className='text-white'>Test</Link>
         </nav>
       </header>
       <main className="p-6">{children}</main>

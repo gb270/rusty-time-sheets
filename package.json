@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@tauri-apps/api": "^1.6.0"
+    "@tauri-apps/api": "^1.6.0",
+    "tauri-plugin-sql-api": "github:tauri-apps/tauri-plugin-sql#v1"
   }
 }

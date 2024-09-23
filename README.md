@@ -41,7 +41,6 @@ Make sure you have the following installed:
     ```bash
     cargo tauri dev
 
-
 ### Future Plans
 I am actively working towards a stable release. The upcoming 1.0 version will include additional features, enhancements, and optimizations. The first version should be available on Windows, Linux and MacOS. Stay tuned for updates!
 

@@ -9,6 +9,13 @@
     "productName": "rusty-time-sheets",
     "version": "0.1.0"
   },
+  
+  "plugins": {
+    "sql": {
+      "preload": ["sqlite:mydatabase.db"]
+    }
+  },
+  
   "tauri": {
     "allowlist": {
       "all": false
